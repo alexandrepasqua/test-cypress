@@ -1,0 +1,25 @@
+{
+  "name": "cypress-framework",
+  "version": "1.0.0",
+  "description": "VR desafio",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "cypress.io",
+    "dynamic fixtures",
+    "fakerjs",
+    "frontend testing",
+    "javascript"
+  ],
+  "author": "Alexandre Ferreira Pasqua",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "@types/faker": "^6.6.9",
+    "cypress": "^12.10.0",
+    "faker": "^5.5.3"
+  }
+}
